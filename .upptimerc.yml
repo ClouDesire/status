@@ -7,7 +7,7 @@ sites:
     url: https://marketplace.cloudeng.it
     maxResponseTime: 60000
   - name: https://backend-staging-eng.cloudesire.com
-    url: https://backend-staging-eng.cloudesire.com
+    url: https://backend-staging-eng.cloudesire.com/api/version
   - name: https://vc2.cloudeng.it 
     url: https://vc2.cloudeng.it
 status-website:
