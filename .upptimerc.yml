@@ -18,7 +18,6 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Cloudesire Status Page
   introTitle: "Cloudesire Status Page"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/Cloudesire/status).
   theme: dark
   navbar:
     - title: Status
