@@ -6,6 +6,10 @@ sites:
   - name: Marketplace Engineering
     url: https://marketplace.cloudeng.it
     maxResponseTime: 60000
+  - name: [staging-eng] Backend
+    url: https://backend-staging-eng.cloudesire.com
+  - name: https://vc2.cloudeng.it 
+    url: https://vc2.cloudeng.it
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
