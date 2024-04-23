@@ -4,17 +4,17 @@
     "url": "https://marketplace.cloudeng.it",
     "icon": "https://icons.duckduckgo.com/ip3/marketplace.cloudeng.it.ico",
     "slug": "marketplace-engineering",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 840,
+    "timeDay": 840,
+    "timeWeek": 840,
+    "timeMonth": 840,
+    "timeYear": 840,
     "dailyMinutesDown": {}
   }
 ]
