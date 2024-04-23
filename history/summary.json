@@ -1,9 +1,9 @@
 [
   {
-    "name": "mcp.cloudeng.it",
-    "url": "mcp.cloudeng.it",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "mcp-cloudeng-it",
+    "name": "Marketplace Engineering",
+    "url": "https://marketplace.cloudeng.it",
+    "icon": "https://icons.duckduckgo.com/ip3/marketplace.cloudeng.it.ico",
+    "slug": "marketplace-engineering",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
