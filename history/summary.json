@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 895,
-    "timeDay": 932,
-    "timeWeek": 832,
-    "timeMonth": 883,
-    "timeYear": 895,
+    "time": 898,
+    "timeDay": 1012,
+    "timeWeek": 871,
+    "timeMonth": 887,
+    "timeYear": 898,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend-staging-eng.cloudesire.com.ico",
     "slug": "https-backend-staging-eng-cloudesire-com",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 376,
-    "timeDay": 458,
-    "timeWeek": 395,
-    "timeMonth": 365,
-    "timeYear": 376,
+    "uptimeYear": "99.89%",
+    "time": 377,
+    "timeDay": 418,
+    "timeWeek": 408,
+    "timeMonth": 367,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2024-04-23": 62
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1080,
-    "timeDay": 1591,
-    "timeWeek": 1173,
-    "timeMonth": 1091,
-    "timeYear": 1080,
+    "time": 1084,
+    "timeDay": 1254,
+    "timeWeek": 1241,
+    "timeMonth": 1096,
+    "timeYear": 1084,
     "dailyMinutesDown": {}
   }
 ]
