@@ -42,19 +42,19 @@
     "url": "https://vc2.cloudeng.it",
     "icon": "https://icons.duckduckgo.com/ip3/vc2.cloudeng.it.ico",
     "slug": "https-vc2-cloudeng-it",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1079,
-    "timeDay": 1246,
-    "timeWeek": 1027,
-    "timeMonth": 1095,
-    "timeYear": 1079,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1080,
+    "timeDay": 1192,
+    "timeWeek": 1041,
+    "timeMonth": 1097,
+    "timeYear": 1080,
     "dailyMinutesDown": {
-      "2024-06-17": 0
+      "2024-06-17": 7
     }
   }
 ]
