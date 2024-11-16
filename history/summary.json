@@ -42,7 +42,7 @@
     "url": "https://vc2.cloudeng.it",
     "icon": "https://icons.duckduckgo.com/ip3/vc2.cloudeng.it.ico",
     "slug": "https-vc2-cloudeng-it",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +53,8 @@
     "timeWeek": 1155,
     "timeMonth": 1137,
     "timeYear": 1148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-16": 0
+    }
   }
 ]
