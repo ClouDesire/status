@@ -4,7 +4,7 @@
     "url": "https://marketplace.cloudeng.it",
     "icon": "https://icons.duckduckgo.com/ip3/marketplace.cloudeng.it.ico",
     "slug": "https-marketplace-cloudeng-it",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 761,
     "timeMonth": 782,
     "timeYear": 862,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-04": 0
+    }
   },
   {
     "name": "https://backend-staging-eng.cloudesire.com",
