@@ -4,10 +4,10 @@
     "url": "https://marketplace.cloudeng.it",
     "icon": "https://icons.duckduckgo.com/ip3/marketplace.cloudeng.it.ico",
     "slug": "https-marketplace-cloudeng-it",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "89.48%",
     "uptimeYear": "98.84%",
     "time": 862,
@@ -16,6 +16,7 @@
     "timeMonth": 843,
     "timeYear": 862,
     "dailyMinutesDown": {
+      "2025-01-24": 1,
       "2025-01-07": 696,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
@@ -48,9 +49,9 @@
     "url": "https://vc2.cloudeng.it",
     "icon": "https://icons.duckduckgo.com/ip3/vc2.cloudeng.it.ico",
     "slug": "https-vc2-cloudeng-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -60,6 +61,7 @@
     "timeMonth": 1065,
     "timeYear": 1123,
     "dailyMinutesDown": {
+      "2025-01-24": 0,
       "2024-11-16": 190
     }
   }
