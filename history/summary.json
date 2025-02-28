@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.97%",
     "time": 869,
-    "timeDay": 657,
-    "timeWeek": 821,
-    "timeMonth": 817,
+    "timeDay": 890,
+    "timeWeek": 858,
+    "timeMonth": 826,
     "timeYear": 869,
     "dailyMinutesDown": {
       "2025-01-07": 696,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 381,
-    "timeDay": 287,
-    "timeWeek": 377,
+    "time": 380,
+    "timeDay": 328,
+    "timeWeek": 369,
     "timeMonth": 382,
-    "timeYear": 381,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2024-11-19": 20,
       "2024-04-23": 62
@@ -50,17 +50,16 @@
     "slug": "https-vc2-cloudeng-it",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1113,
-    "timeDay": 966,
-    "timeWeek": 995,
-    "timeMonth": 1033,
+    "timeDay": 920,
+    "timeWeek": 1002,
+    "timeMonth": 1036,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2025-02-27": 8,
       "2024-11-16": 190
     }
   }
