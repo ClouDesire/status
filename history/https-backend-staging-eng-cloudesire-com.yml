@@ -1,7 +1,7 @@
 url: https://backend-staging-eng.cloudesire.com/api/version
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-23T09:42:32.379Z
+status: up
+code: 200
+responseTime: 551
+lastUpdated: 2025-07-23T09:59:12.604Z
 startTime: 2024-04-23T13:47:47.620Z
 generator: Upptime <https://github.com/upptime/upptime>
