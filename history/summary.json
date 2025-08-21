@@ -30,7 +30,7 @@
     "url": "https://backend-staging-eng.cloudesire.com/api/version",
     "icon": "https://icons.duckduckgo.com/ip3/backend-staging-eng.cloudesire.com.ico",
     "slug": "https-backend-staging-eng-cloudesire-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "98.75%",
     "uptimeWeek": "99.82%",
