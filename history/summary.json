@@ -10,14 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.97%",
-    "time": 933,
-    "timeDay": 699,
-    "timeWeek": 756,
-    "timeMonth": 809,
+    "time": 934,
+    "timeDay": 812,
+    "timeWeek": 789,
+    "timeMonth": 807,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2026-05-05": 145,
-      "2025-10-21": 17
+      "2025-10-21": 17,
+      "2026-05-05": 145
     }
   },
   {
@@ -26,18 +26,25 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend-staging-eng.cloudesire.com.ico",
     "slug": "https-backend-staging-eng-cloudesire-com",
     "status": "down",
-    "uptime": "72.82%",
+    "uptime": "72.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "43.39%",
-    "time": 332,
-    "timeDay": 144,
-    "timeWeek": 88,
-    "timeMonth": 94,
-    "timeYear": 313,
+    "uptimeYear": "43.12%",
+    "time": 331,
+    "timeDay": 122,
+    "timeWeek": 101,
+    "timeMonth": 96,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2026-05-24": 36,
+      "2025-07-22": 17,
+      "2025-07-23": 112,
+      "2025-08-21": 141,
+      "2025-08-28": 37,
+      "2025-08-29": 24,
+      "2025-10-29": 536,
+      "2026-05-25": 37,
+      "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -243,13 +250,7 @@
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
-      "2025-10-30": 1440,
-      "2025-10-29": 536,
-      "2025-08-29": 24,
-      "2025-08-28": 37,
-      "2025-08-21": 141,
-      "2025-07-23": 112,
-      "2025-07-22": 17
+      "2025-10-30": 1440
     }
   },
   {
@@ -263,16 +264,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1176,
-    "timeDay": 1769,
-    "timeWeek": 1941,
-    "timeMonth": 1750,
-    "timeYear": 1184,
+    "time": 1178,
+    "timeDay": 1909,
+    "timeWeek": 1961,
+    "timeMonth": 1764,
+    "timeYear": 1186,
     "dailyMinutesDown": {
-      "2026-04-14": 39,
-      "2026-01-13": 38,
+      "2025-08-28": 25,
       "2025-10-28": 21,
-      "2025-08-28": 25
+      "2026-01-13": 38,
+      "2026-04-14": 39
     }
   }
 ]
